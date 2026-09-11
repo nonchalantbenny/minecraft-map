@@ -8,7 +8,7 @@ var UnminedMapProperties = {
     minRegionZ: -5,
     maxRegionX: 4,
     maxRegionZ: 4,
-    worldName: "LuckyView Returns 2026 - Copy",
+    worldName: "LuckyView Returns 2026 - Copy - Copy",
     background: "",
     markers: new Array(),
     enableGrid: true,
