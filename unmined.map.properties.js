@@ -5,7 +5,7 @@ var UnminedMapProperties = {
     defaultZoom: 0,
     imageFormat: "webp",
     minRegionX: -6,
-    minRegionZ: -5,
+    minRegionZ: -4,
     maxRegionX: 5,
     maxRegionZ: 5,
     worldName: "LuckyView Returns 2026 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy",
